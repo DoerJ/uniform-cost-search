@@ -11,7 +11,7 @@ James(Yuhao) He
 The problem involves the path finding in a n*n square, where each cell contains a non-negative integer indicating the "cost" of being in that cell. The cost of move is: 1 + value of the cell to be moved to. Given the starting position and goal position on the grid, the goal is to determines the least cost path from the start location to goal location. 
 
 ## Sample inputs
-<dt>Grid:</dt>
+<dt>grid:</dt>
 <dt>1   4   5   3</dt>
 <dt>2   1   4   2</dt>
 <dt>5   7   9   1</dt>

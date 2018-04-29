@@ -1,5 +1,5 @@
 # uniform-cost-search
-The algorithm determines the least cost path from the start location to goal location
+Utilize uniform-cost search algorithm to determines the least cost path from the start location to goal location
 
 ## Course
 SFU CMPT 310: Artificial Intelligence Survey

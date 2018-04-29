@@ -1,4 +1,4 @@
-# uniform-cost-search
+# Uniform-cost search
 Utilize uniform-cost search algorithm to determines the least cost path from the start location to goal location
 
 ## Course

@@ -3,7 +3,7 @@ Utilize uniform-cost search algorithm to determines the least cost path from the
 
 ## Course
 <dt>2018 Spring, SFU</dt>
-<dt>SFU CMPT 310: Artificial Intelligence Survey</dt>
+<dt>CMPT 310: Artificial Intelligence Survey</dt>
 
 ## Author
 James(Yuhao) He
